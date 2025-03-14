@@ -25,4 +25,3 @@ $results = get_results(); // Получение всех результатов
 
 <?php
 require_once "templates/footer.php";
-?>

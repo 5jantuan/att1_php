@@ -1,8 +1,5 @@
 <?php
 require_once "config.php";
-
-
-
 /**
  * Получение всех вопросов из файла questions.json
  * 
@@ -96,7 +93,3 @@ function calculate_score($user_answers, $correct_answers) {
     $percentage = ($score / $total_questions) * 100;
     return [$score, $percentage];
 }
-
-
-
-?>
