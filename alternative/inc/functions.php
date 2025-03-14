@@ -92,4 +92,10 @@ function calculate_score($user_answers, $correct_answers) {
 
     $percentage = ($score / $total_questions) * 100;
     return [$score, $percentage];
+<<<<<<< HEAD
 }
+=======
+}
+
+
+>>>>>>> 4bf79330a3329cc28e65b4616dbdd1abce1cb564

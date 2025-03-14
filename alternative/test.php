@@ -1,4 +1,8 @@
 <?php
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4bf79330a3329cc28e65b4616dbdd1abce1cb564
 // Остальные include файлы
 require_once "inc/functions.php";
 
@@ -63,3 +67,7 @@ require_once "templates/header.php";
     </div>
     <button type="submit">Завершить тест</button>
 </form>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4bf79330a3329cc28e65b4616dbdd1abce1cb564

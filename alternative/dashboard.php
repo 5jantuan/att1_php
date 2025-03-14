@@ -25,3 +25,7 @@ $results = get_results(); // Получение всех результатов
 
 <?php
 require_once "templates/footer.php";
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4bf79330a3329cc28e65b4616dbdd1abce1cb564

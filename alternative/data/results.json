@@ -106,6 +106,7 @@
         "score": 5,
         "total": 6,
         "percentage": 83.33333333333334
+<<<<<<< HEAD
     },
     {
         "name": "test",
@@ -172,5 +173,7 @@
         "score": 6,
         "total": 6,
         "percentage": 100
+=======
+>>>>>>> 4bf79330a3329cc28e65b4616dbdd1abce1cb564
     }
 ]
