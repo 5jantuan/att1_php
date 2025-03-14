@@ -1,8 +1,6 @@
 <?php
-// Включаем буферизацию вывода в самом начале
-ob_start();
 
-// Ваши остальные include файлы
+// Остальные include файлы
 require_once "inc/functions.php";
 require_once "templates/header.php";
 
@@ -67,7 +65,3 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <button type="submit">Завершить тест</button>
 </form>
 
-<?php
-// В конце скрипта выводим весь буфер
-ob_end_flush();
-?>

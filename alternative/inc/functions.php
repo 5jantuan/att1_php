@@ -98,5 +98,3 @@ function calculate_score($user_answers, $correct_answers) {
 }
 
 
-
-?>
